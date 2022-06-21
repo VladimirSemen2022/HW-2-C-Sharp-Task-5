@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW-2-C-Sharp-Task-5", "HW-2-C-Sharp-Task-5\HW-2-C-Sharp-Task-5.csproj", "{F2784DCA-A09E-4418-B680-A1DFD125DECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2784DCA-A09E-4418-B680-A1DFD125DECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2784DCA-A09E-4418-B680-A1DFD125DECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2784DCA-A09E-4418-B680-A1DFD125DECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2784DCA-A09E-4418-B680-A1DFD125DECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC32A2F8-B0CC-4DF7-9D9C-5CF303AFDAC7}
+	EndGlobalSection
+EndGlobal
